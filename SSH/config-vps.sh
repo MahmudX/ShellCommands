@@ -16,6 +16,9 @@ yum install nginx
 cd /home
 adduser $newusername
 
+# Set password for a user
+passwd $accountname
+
 # install ftp
 yum install pure-ftpd
 
