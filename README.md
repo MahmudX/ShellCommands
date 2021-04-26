@@ -2,6 +2,9 @@
 
 Simple shell command cheat sheet. It helps me to remember the commands quickly if I forget them.
 
+## Microsoft.PowerShell_profile.ps1
+My default powershell profile.
+
 ## powerline.ps1
 
 Commands to customize windows terminal with power-line. [Cascadia Code PL](https://github.com/microsoft/cascadia-code/releases) font is required to get the full experience.
