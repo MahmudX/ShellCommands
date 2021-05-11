@@ -13,7 +13,7 @@ Simple shell command cheat sheet. It helps me to remember the commands quickly i
 [![GitHub issues](https://img.shields.io/github/issues/MahmudX/ShellCommands?style=flat-square)](https://github.com/MahmudX/ShellCommands/issues)
 
 ## Microsoft.PowerShell_profile.ps1
-My default powershell profile.
+My default powershell profile. Get the profile uri using `echo $profile`.
 
 ## powerline.ps1
 
