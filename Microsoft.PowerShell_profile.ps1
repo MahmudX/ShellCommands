@@ -1,5 +1,6 @@
 Import-Module posh-git
 Import-Module oh-my-posh
+Import-Module -Name Terminal-Icons
 Set-PoshPrompt -Theme paradox
 Set-Alias -Name ic -Value ibmcloud
 Set-Alias -Name kc -Value kubectl
